@@ -1,19 +1,32 @@
-# My Portfolio Website
+# Alhaidar's Portfolio Website
 
-Welcome to my personal portfolio website! This project showcases my skills and expertise in **web development**, **graphic design**, and **cybersecurity**.
+Welcome to my personal portfolio!  
+This website showcases my projects, skills, and background as a passionate web developer.
+
+---
+
+## About Me
+
+Hi! I'm Alhaidar, a web developer dedicated to crafting beautiful, responsive, and user-friendly websites. I specialize in modern web technologies including HTML, CSS, and JavaScript.
+
+---
 
 ## Features
 
-- Clean and modern responsive design
-- Showcases selected projects and services
-- Easy navigation and user-friendly interface
-- Contact information section for collaboration opportunities
+- Clean and professional homepage  
+- Showcase of my latest projects with detailed descriptions  
+- Brief personal profile and contact information  
+- Fully responsive design for all devices  
+- Smooth animations and interactive elements  
+
+---
 
 ## Technologies Used
 
-- HTML5 & CSS3
-- JavaScript
-- (Add any frameworks or libraries you used here, e.g., React, Bootstrap)
+- HTML5  
+- CSS3 (Flexbox, Grid, Animations)  
+- JavaScript (ES6+)  
+- [Optional] Frameworks or libraries like React, Vue, or Bootstrap (customize as needed)
 
 ## Contact
 
